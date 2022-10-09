@@ -1,0 +1,6 @@
+# set umask to read-only for other users
+umask 002
+# clear screen
+clear
+# show who is logged in
+w
